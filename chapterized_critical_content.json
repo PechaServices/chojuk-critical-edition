@@ -372,7 +372,7 @@
     {
       "collated_edition": "བློ་ཡིས་བླངས་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །<«I»མཆོག། །>སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས<«N,Q»ཀྱི>། །བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས། །",
       "critical_edition": "བློ་ཡིས་བླངས་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས། །བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས། །",
-      "critical_edition_with_marker": "བློ་ཡིས་བླངས་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །[1]སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས[2]། །བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས། །",
+      "critical_edition_with_marker": "བློ་ཡིས་བླངས་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །[1]སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས། །བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས། །",
       "critical_apparatus": {
         "1": "ཀྱིས་] N,Q ཀྱི། The instrumental case marker ཀྱིས་ is preferred over the genitive ཀྱི་ as it matches the Sanskrit instrumental महाकृपाः and agrees with the commentary readings (KP, GDR, KS, TS all use ཀྱིས་). The instrumental case is also grammatically required as the agent of the action བརྩེར་དགོངས།"
       }
@@ -459,7 +459,7 @@
     {
       "collated_edition": "གསེར་གྱི་པདྨ་ཚར་དུ་དངར་བ་ཡི། །རིན་ཆེན་སྒྲོན་མ་<«C,N,Q»མེ་>རྣམས་ཀྱང་དབུལ་བར་བགྱི། །ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར། །མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བྱ<«C,N,Q»བགྱི>། །",
       "critical_edition": "གསེར་གྱི་པདྨ་ཚར་དུ་དངར་བ་ཡི། །རིན་ཆེན་སྒྲོན་མེ་རྣམས་ཀྱང་དབུལ་བར་བགྱི། །ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར། །མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བགྱི། །",
-      "critical_edition_with_marker": "གསེར་གྱི་པདྨ་ཚར་དུ་དངར་བ་ཡི། །རིན་ཆེན་སྒྲོན་མེ་[1]རྣམས་ཀྱང་དབུལ་བར་བགྱི། །ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར། །མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བགྱ[2]ི། །",
+      "critical_edition_with_marker": "གསེར་གྱི་པདྨ་ཚར་དུ་དངར་བ་ཡི། །རིན་ཆེན་སྒྲོན་མེ་[1]རྣམས་ཀྱང་དབུལ་བར་བགྱི། །ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར། །མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བགྱི[2] །",
       "critical_apparatus": {
         "1": "སྒྲོན་མེ་] C,N,Q མེ། Chosen reading སྒྲོན་མེ་ confirmed by Skt. रत्नप्रदीपान् and all commentaries (KP,GDR,KS,TS) which consistently interpret as རིན་ཆེན་སྒྲོན་མེ་",
         "2": "བྱ] C,N,Q བགྱི། Chosen reading བྱ supported by Skt. किरामि (present tense) and parallel construction with previous verse ending. KP,TS use དགྲམ་པར་བྱ/བགྱི showing either reading possible."
@@ -492,12 +492,9 @@
     {
       "collated_edition": "དམ་ཆོས་དཀོན་མཆོག་ཐམས་ཅད་དང་། །མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ། །རིན་ཆེན་མེ་ཏོག་ལ་སོགས་ཆར། །རྒྱུན་མི་འཆད་པར་འབབ་པར་ཤོག །<«I,P»ཤོག། །>",
       "critical_edition": "དམ་ཆོས་དཀོན་མཆོག་ཐམས་ཅད་དང་། །མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ། །རིན་ཆེན་མེ་ཏོག་ལ་སོགས་ཆར། །རྒྱུན་མི་འཆད་པར་འབབ་པར་ཤོག །",
-      "critical_edition_with_marker": "དམ་ཆོས་དཀོན་མཆོག་ཐམས་ཅད་དང་། །མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ། །རིན་ཆེན་མེ་ཏོག་ལ་སོགས་ཆར། །རྒྱུན་མི་འཆད་པར་འབབ་པར་ཤོག །[1]",
+      "critical_edition_with_marker": "དམ་ཆོས་དཀོན་མཆོག་ཐམས་ཅད་དང་། །མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ། །རིན་ཆེན་མེ་ཏོག་ལ་སོགས་ཆར། །རྒྱུན་མི་འཆད་པར་འབབ་པར་ཤོག[1] །",
       "critical_apparatus": {
         "1": "ཤོག །] I,P ཤོག། །. The single shad reading is preferred based on Sanskrit verse ending ॥२१॥ and standard Classical Tibetan punctuation conventions for verse endings.",
-        "2": "དམ་ཆོས་དཀོན་མཆོག་] The reading is confirmed by all witnesses and Sanskrit सद्धर्मरत्न. KP glosses as ལུང་དང་རྟོགས་པའི་དམ་པའི་ཆོས་, while GDR specifies གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་དང་འགོག་ལམ་གྱིས་བསྡུས་པའི་དམ་ཆོས་.",
-        "3": "མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་] Matches Sanskrit चैत्येषु प्रतिमासु. KP provides extensive discussion of eight types of stupas and various buddha images.",
-        "4": "རིན་ཆེན་མེ་ཏོག་ལ་སོགས་] Corresponds to Sanskrit पुष्परत्नादि. KP expands this as རིན་ཆེན་སྣ་ཚོགས་དང་མེ་ཏོག་དང་དྲི་བཟང་དང་གོས་རྒྱན་འབྲུ་སྨན་སྣ་ཚོགས་པ."
       }
     },
     {
@@ -525,7 +522,7 @@
     {
       "collated_edition": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི་རྣམས་:དང་། །<«I»༄༅། །དང། །>མཆོད་རྟེན་:རྣམས་ལ་<«N,Q»ཀུན་ལའང་>བདག་ཕྱག་འཚལ། །མཁན་པོ་དེ་བཞིན་སློབ་དཔོན་དང་། །བརྟུལ་ཞུགས་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །",
       "critical_edition": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི་རྣམས་དང་། །མཆོད་རྟེན་རྣམས་ལ་བདག་ཕྱག་འཚལ། །མཁན་པོ་དེ་བཞིན་སློབ་དཔོན་དང་། །བརྟུལ་ཞུགས་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །",
-      "critical_edition_with_marker": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི་རྣམས་དང་། །[1]མཆོད་རྟེན་རྣམས་ལ་[2]1བདག་ཕྱག་འཚལ། །མཁན་པོ་དེ་བཞིན་སློབ་དཔོན་དང་། །བརྟུལ་ཞུགས་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །",
+      "critical_edition_with_marker": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི་རྣམས་དང་།[1] །མཆོད་རྟེན་རྣམས་ལ་བདག་ཕྱག་འཚལ། །མཁན་པོ་དེ་བཞིན་སློབ་དཔོན་དང་། །བརྟུལ་ཞུགས་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །",
       "critical_apparatus": {
         "1": "རྣམས་ལ་] N,Q ཀུན་ལའང་། The reading རྣམས་ལ་ is supported by the Sanskrit सर्वचैत्यानि and also by KP's commentary which uses རྣམས་ལ་. The variant ཀུན་ལའང་ appears to be a later modification attempting to emphasize inclusivity but deviating from the Sanskrit source."
       }
@@ -533,7 +530,7 @@
     {
       "collated_edition": "བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །སངས་རྒྱས་རྣམས་ལ་:སྐྱབས་སུ་མཆི<«N,Q»སྐྱབས་སུ་མཆིས>། །ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །",
       "critical_edition": "བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆིས། །ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །",
-      "critical_edition_with_marker": "བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི[1]ས། །ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །",
+      "critical_edition_with_marker": "བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆིས[1]། །ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །",
       "critical_apparatus": {
         "1": "སྐྱབས་སུ་མཆིས] N,Q; སྐྱབས་སུ་མཆི D. The reading མཆིས is supported by the Sanskrit source गच्छामि and KP's commentary མཆིས་ཀྱི་བར་དུ་སངས་རྒྱས་...སྐྱབས་སུ་མཆིའོ"
       }
@@ -561,7 +558,7 @@
     {
       "collated_edition": "བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི། །ཕ་མའམ་བླ་མ་གཞན་དག་ལ། །ཉོན་མོངས་སྒོ་ནས་ལུས་ངག་དང་། །ཡིད་ཀྱིས་གནོད་བགྱིས་གང་ལགས་དང་<«C»པ>། །",
       "critical_edition": "བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི། །ཕ་མའམ་བླ་མ་གཞན་དག་ལ། །ཉོན་མོངས་སྒོ་ནས་ལུས་ངག་དང་། །ཡིད་ཀྱིས་གནོད་བགྱིས་གང་ལགས་དང་། །",
-      "critical_edition_with_marker": "བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི། །ཕ་མའམ་བླ་མ་གཞན་དག་ལ། །ཉོན་མོངས་སྒོ་ནས་ལུས་ངག་དང་། །ཡིད་ཀྱིས་གནོད་བགྱིས་གང་ལགས་དང་[1]། །",
+      "critical_edition_with_marker": "བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི། །ཕ་མའམ་བླ་མ་གཞན་དག་ལ། །ཉོན་མོངས་སྒོ་ནས་ལུས་ངག་དང་། །ཡིད་ཀྱིས་གནོད་བགྱིས་གང་ལགས་དང[1]། །",
       "critical_apparatus": {
         "1": "གང་ལགས་དང་] C པ། The reading དང་ is supported by the Sanskrit source (kṛtaḥ) which shows a past participle requiring དང་ as a conjunction. Also supported by all commentaries (KP, GDR, KS, TS) which read དང་. The variant པ in C appears to be a scribal error."
       }
@@ -760,7 +757,7 @@
     {
       "collated_edition": "ཐ་མལ་ནད་ཀྱིས་འཇིགས་ན་ཡང་། །སྨན་པའི་ངག་བཞིན་བྱ་དགོས་ན། །འདོད་ཆགས་ལ་སོགས་:ཉེས་པ་བརྒྱའི<«C»ཉེས་བརྒྱ་ཡི>། །ནད་ཀྱིས་རྟག་བཏབ་སྨོས་ཅི་དགོས། །",
       "critical_edition": "ཐ་མལ་ནད་ཀྱིས་འཇིགས་ན་ཡང་། །སྨན་པའི་ངག་བཞིན་བྱ་དགོས་ན། །འདོད་ཆགས་ལ་སོགས་ཉེས་པ་བརྒྱའི། །ནད་ཀྱིས་རྟག་བཏབ་སྨོས་ཅི་དགོས། །",
-      "critical_edition_with_marker": "ཐ་མལ་ནད་ཀྱིས་འཇིགས་ན་ཡང་། །སྨན་པའི་ངག་བཞིན་བྱ་དགོས་ན། །འདོད་ཆགས་ལ་སོགས་ཉེས་པ་བརྒྱའི[1]1། །ནད་ཀྱིས་རྟག་བཏབ་སྨོས་ཅི་དགོས། །",
+      "critical_edition_with_marker": "ཐ་མལ་ནད་ཀྱིས་འཇིགས་ན་ཡང་། །སྨན་པའི་ངག་བཞིན་བྱ་དགོས་ན། །འདོད་ཆགས་ལ་སོགས་ཉེས་པ་བརྒྱའི[1]། །ནད་ཀྱིས་རྟག་བཏབ་སྨོས་ཅི་དགོས། །",
       "critical_apparatus": {
         "1": "ཉེས་པ་བརྒྱའི] C ཉེས་བརྒྱ་ཡི། The reading ཉེས་པ་བརྒྱའི is preferred based on the Sanskrit व्याधिशतैर् which explicitly includes both terms (व्याधि corresponding to ནད/ཉེས་པ and शत corresponding to བརྒྱ). This is further supported by the commentaries: KS has ཉེས་པ་བརྒྱ་ཕྲག་དུ་མ, and GDR mentions ཉེས་པ་བརྒྱ་སྟོང་ཕྲག. The compound construction in the main reading better reflects the Sanskrit compound."
       }
