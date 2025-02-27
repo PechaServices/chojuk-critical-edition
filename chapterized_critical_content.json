@@ -1803,11 +1803,10 @@
     {
       "collated_edition": "བླ་མ་<«N,Q»གཞག། །བླ་མ་>དང་ནི་འགྲོགས་པ་ལས། །མཁན་པོས་རྗེས་སུ་བརྟན་<«C,N,Q»བསྟན་>པ་དང་། །འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། །དྲན་པ་བདེ་བླག་:ཉིད་དུ་སྐྱེ<«N,Q»སྐྱེ་བར་འགྱུར>། །",
       "critical_edition": "བླ་མ་དང་ནི་འགྲོགས་པ་ལས། །མཁན་པོས་རྗེས་སུ་བསྟན་པ་དང་། །འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། །དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ། །",
-      "critical_edition_with_marker": "བླ་མ་[1]དང་ནི་འགྲོགས་པ་ལས། །མཁན་པོས་རྗེས་སུ་བསྟན་[2]པ་དང་། །འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། །དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ[3]། །",
+      "critical_edition_with_marker": "བླ་མ་དང་ནི་འགྲོགས་པ་ལས། །མཁན་པོས་རྗེས་སུ་བསྟན་[1]པ་དང་། །འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། །དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ[2]། །",
       "critical_apparatus": {
-        "1": "གཞག། །བླ་མ་] «N,Q» om. Omitted based on Sanskrit (upādhyāya-) and all commentaries which begin directly with བླ་མ་.",
-        "2": "བརྟན་] «C,N,Q» བསྟན་. Reading བསྟན་ adopted following «C,N,Q» supported by Skt. anuśāsana (instruction) and all commentaries (KP,GDR,KS,TS) which use བསྟན་.",
-        "3": "སྐྱེ] «N,Q» སྐྱེ་བར་འགྱུར་. Reading སྐྱེ adopted as lectio brevior, supported by Skt. jāyate (simple present) and KS's སྐྱེའོ།"
+        "1": "བརྟན་] «C,N,Q» བསྟན་. Reading བསྟན་ adopted following «C,N,Q» supported by Skt. anuśāsana (instruction) and all commentaries (KP,GDR,KS,TS) which use བསྟན་.",
+        "2": "སྐྱེ] «N,Q» སྐྱེ་བར་འགྱུར་. Reading སྐྱེ adopted as lectio brevior, supported by Skt. jāyate (simple present) and KS's སྐྱེའོ།"
       }
     },
     {
@@ -2532,7 +2531,7 @@
     {
       "collated_edition": "དེ་ལྟས་བདག་:གིས་དགྲ་བོ་དེའི། །<«F,G»གིས་བདག་པོ་དེའི་«I»གིས་དག་བོ་དེའི། །«N,Q»གི་དགྲ་བོ་དེའི། །>ཟས་ནི་རྣམ་པར་གཞོམ་པར་བྱ། །འདི་ལྟར་བདག་ལ་གནོད་པ་ལས། །དགྲ་འདི་ལ་ནི་ལས་གཞན་མེད། །",
       "critical_edition": "དེ་ལྟས་བདག་གིས་དགྲ་བོ་དེའི། །ཟས་ནི་རྣམ་པར་གཞོམ་པར་བྱ། །འདི་ལྟར་བདག་ལ་གནོད་པ་ལས། །དགྲ་འདི་ལ་ནི་ལས་གཞན་མེད། །",
-      "critical_edition_with_marker": "དེ་ལྟས་བདག་གིས་དགྲ་བོ་དེའི། །[1]ཟས་ནི་རྣམ་པར་གཞོམ་པར་བྱ། །འདི་ལྟར་བདག་ལ་གནོད་པ་ལས། །དགྲ་འདི་ལ་ནི་ལས་གཞན་མེད། །",
+      "critical_edition_with_marker": "དེ་ལྟས་བདག་གིས་དགྲ་བོ་དེའི[1]། །ཟས་ནི་རྣམ་པར་གཞོམ་པར་བྱ། །འདི་ལྟར་བདག་ལ་གནོད་པ་ལས། །དགྲ་འདི་ལ་ནི་ལས་གཞན་མེད། །",
       "critical_apparatus": {
         "1": "བདག་གིས་དགྲ་བོ་དེའི] F,G བདག་པོ་དེའི; I དག་བོ་དེའི; N,Q བདག་གི་དགྲ་བོ་དེའི། The reading བདག་གིས་དགྲ་བོ་དེའི is supported by the Sanskrit तस्य...रिपोः and all commentaries (KP, GDR, KS, TS) which consistently interpret this as referring to the 'enemy of anger' (ཞེ་སྡང་གི་དགྲ་བོ). The instrumental case གིས is confirmed by Sanskrit अहं as the agent."
       }
@@ -2698,7 +2697,7 @@
     {
       "collated_edition": "མ་སྐྱེས་པར་ནི་དེ་མེད་ན། །དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་། །ཡུལ་ལ་རྟག་ཏུ་གཡེང་<«N,Q»གཡེངས་>འགྱུར་བ<«C»བས«N,Q»པས>། །འགག་པར་འགྱུར་བའང་<«N,Q»གང་>མ་ཡིན་ནོ། །",
       "critical_edition": "མ་སྐྱེས་པར་ནི་དེ་མེད་ན། །དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་། །ཡུལ་ལ་རྟག་ཏུ་གཡེང་འགྱུར་བས། །འགག་པར་འགྱུར་བའང་མ་ཡིན་ནོ། །",
-      "critical_edition_with_marker": "མ་སྐྱེས་པར་ནི་དེ་མེད་ན། །དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་། །ཡུལ་ལ་རྟག་ཏུ་གཡེང་[1]འགྱུར་བ[2]ས། །འགག་པར་འགྱུར་བའང་[3]མ་ཡིན་ནོ། །",
+      "critical_edition_with_marker": "མ་སྐྱེས་པར་ནི་དེ་མེད་ན། །དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་། །ཡུལ་ལ་རྟག་ཏུ་གཡེང་[1]འགྱུར་བས[2]། །འགག་པར་འགྱུར་བའང་[3]མ་ཡིན་ནོ། །",
       "critical_apparatus": {
         "1": "གཡེང་] N,Q གཡེངས་ ། Sanskrit विषयव्यापृतत्वात् supports གཡེང་. KP and KS also support the simpler form.",
         "2": "བས་] C བ་ N,Q པས་ ། The instrumental case marker བས་ is preferred as it matches Sanskrit ablative -त्वात् and provides the logical connection.",
@@ -2884,10 +2883,9 @@
     {
       "collated_edition": "གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི། །ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ། །<«F,G»འགྲོ །>གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན། །དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་<«N,Q»འབྱུང་>། །",
       "critical_edition": "གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི། །ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ། །གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན། །དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་། །",
-      "critical_edition_with_marker": "གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི། །ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ། །[1]གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན། །དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་[2]། །",
+      "critical_edition_with_marker": "གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི། །ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ། །གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན། །དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་[1]། །",
       "critical_apparatus": {
-        "1": "འགྲོ། ] F,G འགྲོ །། The single shad reading is preferred as it matches the Sanskrit verse structure and is supported by most witnesses. The double shad in F,G appears to be a scribal innovation.",
-        "2": "བྱུང་ ] N,Q འབྱུང་། The reading བྱུང་ is preferred as it better corresponds to Sanskrit आयातं (āyātaṃ, 'occurred/happened' in past tense). This is further supported by KP's gloss བྱུང་སྟེ། Additionally, the temporal context in all commentaries (KP, GDR, KS, TS) consistently treats this as a past event."
+        "1": "བྱུང་ ] N,Q འབྱུང་། The reading བྱུང་ is preferred as it better corresponds to Sanskrit आयातं (āyātaṃ, 'occurred/happened' in past tense). This is further supported by KP's gloss བྱུང་སྟེ། Additionally, the temporal context in all commentaries (KP, GDR, KS, TS) consistently treats this as a past event."
       }
     },
     {
@@ -2954,10 +2952,9 @@
     {
       "collated_edition": "རྙེད་པ་མང་པོ་ཐོབ་གྱུར་ཏེ། །ཡུན་རིང་དུས་སུ་བདེ་སྤྱད་:ཀྱང་། །<«I»༄༅། །ཀྱང། །>ཆོམ་པོས་ཕྲོགས་པ་ཇི་བཞིན་དུ། །སྒྲེན་མོ་ལག་པ་སྟོང་པར་འགྲོ། །<«F,G»འགྲོ །>",
       "critical_edition": "རྙེད་པ་མང་པོ་ཐོབ་གྱུར་ཏེ། །ཡུན་རིང་དུས་སུ་བདེ་སྤྱད་ཀྱང་། །ཆོམ་པོས་ཕྲོགས་པ་ཇི་བཞིན་དུ། །སྒྲེན་མོ་ལག་པ་སྟོང་པར་འགྲོ། །",
-      "critical_edition_with_marker": "རྙེད་པ་མང་པོ་ཐོབ་གྱུར་ཏེ། །ཡུན་རིང་དུས་སུ་བདེ་སྤྱད་ཀྱང་། །[1]ཆོམ་པོས་ཕྲོགས་པ་ཇི་བཞིན་དུ། །སྒྲེན་མོ་ལག་པ་སྟོང་པར་འགྲོ། །[2]",
+      "critical_edition_with_marker": "རྙེད་པ་མང་པོ་ཐོབ་གྱུར་ཏེ། །ཡུན་རིང་དུས་སུ་བདེ་སྤྱད་ཀྱང་[1]། །ཆོམ་པོས་ཕྲོགས་པ་ཇི་བཞིན་དུ། །སྒྲེན་མོ་ལག་པ་སྟོང་པར་འགྲོ། །",
       "critical_apparatus": {
         "1": "བདེ་སྤྱད་ཀྱང་] I བདེ་སྤྱད་ཀྱང། The Sanskrit भुक्त्वा सुखान्यपि and all commentaries (KP: བདེ་བ་...སྤྱད་ཀྱང་, GDR: བདེ་བ་སྤྱད་ཀྱང་, KS: བདེ་བ་ལ་སྤྱད་ཀྱང་) support this reading.",
-        "2": "སྟོང་པར་འགྲོ།] F,G སྟོང་པར་འགྲོ །  The single shad after འགྲོ is preferred as it marks the end of the verse. This is supported by the Sanskrit verse ending and commentary tradition (KP: འགྲོ་དགོས་སོ།, GDR: འགྲོ་དགོས་སོ།)"
       }
     },
     {
@@ -3167,7 +3164,7 @@
     {
       "collated_edition": "བསོད་ནམས་དང་ནི་དད་པའམ། །རང་གི་ཡོན་ཏན་ཅི་<«C»ཅིའི་>ཕྱིར་འདོར། །<«N,Q»འདོད། >རྙེད་པ་<«C,N,Q»པར་>གྱུར་པ་མི་འཛིན་པ<«N,Q»ལ>། །གང་གིས་ཁྲོ་བ་<«C,N,Q»བར་>མི་བྱེད་སྨྲོས། །<«F,G»སྨོས། །>",
       "critical_edition": "བསོད་ནམས་དང་ནི་དད་པའམ། །རང་གི་ཡོན་ཏན་ཅིའི་ཕྱིར་འདོར། །རྙེད་པ་གྱུར་པ་མི་འཛིན་པ། །གང་གིས་ཁྲོ་བར་མི་བྱེད་སྨྲོས། །",
-      "critical_edition_with_marker": "བསོད་ནམས་དང་ནི་དད་པའམ། །རང་གི་ཡོན་ཏན་ཅིའི་[1]ཕྱིར་འདོར། །[2]རྙེད་པ་[3]གྱུར་པ་མི་འཛིན་པ[4]། །གང་གིས་ཁྲོ་བར་[5]མི་བྱེད་སྨྲོས། །[6]",
+      "critical_edition_with_marker": "བསོད་ནམས་དང་ནི་དད་པའམ། །རང་གི་ཡོན་ཏན་ཅིའི་[1]ཕྱིར་འདོར[2]། །རྙེད་པ་[3]གྱུར་པ་མི་འཛིན་པ[4]། །གང་གིས་ཁྲོ་བར་[5]མི་བྱེད་སྨྲོས[6]། །",
       "critical_apparatus": {
         "1": "ཅི་] C ཅིའི་ | The reading ཅིའི་ is supported by the commentary KP which explicitly uses ཅིའི་ཕྱིར་and aligns better with Sanskrit किं.",
         "2": "འདོར་] N,Q འདོད་ | འདོར་ is preferred as it corresponds to Sanskrit वारयतु and is supported by all commentaries (KP, GDR, KS, TS) which consistently use འདོར་.",
@@ -3180,9 +3177,8 @@
     {
       "collated_edition": "ཁྱོད་ནི་རང་གིས་སྡིག་བྱས་ལ། །མྱ་ངན་མེད་པར་མ་ཟད་ཀྱི། །བསོད་ནམས་བྱས་པ་གཞན་དག་དང་། །ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ།། །།བམ་པོ་གཉིས་པའོ། །<«C»པ།། །།«F,G»པའོ།། །།«N,Q»པ། །>",
       "critical_edition": "ཁྱོད་ནི་རང་གིས་སྡིག་བྱས་ལ། །མྱ་ངན་མེད་པར་མ་ཟད་ཀྱི། །བསོད་ནམས་བྱས་པ་གཞན་དག་དང་། །ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ། །བམ་པོ་གཉིས་པའོ།། །།",
-      "critical_edition_with_marker": "ཁྱོད་ནི་རང་གིས་སྡིག་བྱས་ལ། །མྱ་ངན་མེད་པར་མ་ཟད་ཀྱི། །བསོད་ནམས་བྱས་པ་གཞན་དག་དང་། །ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ། །བམ་པོ་གཉིས་པའོ།། །[1]།",
+      "critical_edition_with_marker": "ཁྱོད་ནི་རང་གིས་སྡིག་བྱས་ལ། །མྱ་ངན་མེད་པར་མ་ཟད་ཀྱི། །བསོད་ནམས་བྱས་པ་གཞན་དག་དང་། །ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ། །བམ་པོ་གཉིས་པའོ།། །།",
       "critical_apparatus": {
-        "1": "བམ་པོ་གཉིས་པའོ།། །།] C པ།། །། F,G པའོ།། །། N,Q པ། །། The reading འོ is supported by the Sanskrit text's verse number indication (८६) and commentarial tradition. KP, GDR, KS and TS all treat this as a section marker, with འོ marking completion. The chosen reading follows the majority of witnesses and better reflects the formal section ending."
       }
     },
     {
@@ -3230,7 +3226,7 @@
     {
       "collated_edition": "གྲགས་པའི་དོན་དུ་ནོར་:ཤོར་ཅིང་། །<«C,N,Q»གཏོང་ཞིང་། །«F,G»ཤོར་ཅིང་། །>བདག་ཉིད་ཀྱང་ནི་གསོད་བྱེད་ན། །ཚིག་འབྲུ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ། །:ཤ་ནི་<«C,F,G,N,Q»ཤི་ན་>དེས་ཀོ་སུ་ལ་བདེ། །",
       "critical_edition": "གྲགས་པའི་དོན་དུ་ནོར་གཏོང་ཞིང་། །བདག་ཉིད་ཀྱང་ནི་གསོད་བྱེད་ན། །ཚིག་འབྲུ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ། །ཤི་ན་དེས་ཀོ་སུ་ལ་བདེ། །",
-      "critical_edition_with_marker": "གྲགས་པའི་དོན་དུ་ནོར་གཏོང་ཞིང་། །[1]བདག་ཉིད་ཀྱང་ནི་གསོད་བྱེད་ན། །ཚིག་འབྲུ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ། །ཤི་ན་[2]དེས་ཀོ་སུ་ལ་བདེ། །",
+      "critical_edition_with_marker": "གྲགས་པའི་དོན་དུ་ནོར་གཏོང་ཞིང་[1]། །བདག་ཉིད་ཀྱང་ནི་གསོད་བྱེད་ན། །ཚིག་འབྲུ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ། །ཤི་ན་[2]དེས་ཀོ་སུ་ལ་བདེ། །",
       "critical_apparatus": {
         "1": "ནོར་གཏོང་ཞིང་] C,N,Q; ནོར་ཤོར་ཅིང་ F,G : The reading གཏོང་ཞིང་ is supported by the Sanskrit हारयन्ति and all commentaries (KP: གཏོང་ཞིང་, GDR: ནོར་གཏོང་ཞིང་, KS: གཏོང་ཞིང་, TS: གཏོང་ཞིང་). The variant ཤོར་ཅིང་ appears to be a scribal error.",
         "2": "ཤི་ན་] C,F,G,N,Q; ཤ་ནི་ D : The reading ཤི་ན་ is supported by the Sanskrit मृते and all commentaries (KP: ཤི་བར་གྱུར་པ་ན་, GDR: ཤི་ན་, KS: ཤི་བར་གྱུར་ན་, TS: ཤི་ན་). The reading ཤ་ནི་ is clearly erroneous."
@@ -3339,7 +3335,7 @@
     {
       "collated_edition": "དུས་སུ་ཕྱིན་<«C»བྱིན་«F,G»སྦྱིན་>པའི་སློང་མོ་བས། །<«C»པས། >སྦྱིན་པའི་གེགས་བྱས་ཡོད་མ་ཡིན། །རབ་ཏུ་འབྱིན་པར་བྱེད་གྱུར་པ། །རབ་བྱུང་གེགས་ཞེས་བྱར་མི་རུང་། །",
       "critical_edition": "དུས་སུ་ཕྱིན་པའི་སློང་མོ་བས། །སྦྱིན་པའི་གེགས་བྱས་ཡོད་མ་ཡིན། །རབ་ཏུ་འབྱིན་པར་བྱེད་གྱུར་པ། །རབ་བྱུང་གེགས་ཞེས་བྱར་མི་རུང་། །",
-      "critical_edition_with_marker": "དུས་སུ་ཕྱིན་[1]པའི་སློང་མོ་བས། །[2]སྦྱིན་པའི་གེགས་བྱས་ཡོད་མ་ཡིན། །རབ་ཏུ་འབྱིན་པར་བྱེད་གྱུར་པ། །རབ་བྱུང་གེགས་ཞེས་བྱར་མི་རུང་། །",
+      "critical_edition_with_marker": "དུས་སུ་ཕྱིན་[1]པའི་སློང་མོ་བས[2]། །སྦྱིན་པའི་གེགས་བྱས་ཡོད་མ་ཡིན། །རབ་ཏུ་འབྱིན་པར་བྱེད་གྱུར་པ། །རབ་བྱུང་གེགས་ཞེས་བྱར་མི་རུང་། །",
       "critical_apparatus": {
         "1": "ཕྱིན་] C བྱིན་ F,G སྦྱིན་ | ཕྱིན་ chosen based on Sanskrit कालोपपन्न and commentaries (KP,GDR,KS) which consistently use ཕྱིན་",
         "2": "བས། ] C པས། | བས། preferred as it agrees with Sanskrit instrumental अर्थिना and commentary usage",
@@ -3543,12 +3539,12 @@
     {
       "collated_edition": "འདི་ལྟར་དེ་གཅིག་མ་ཡིན་གྱི། །རྒྱལ་:པོའི་མཐུ་<«N,Q»པོའི་>སྟོབས་<«N,Q»སྟོབས་ནི་>དེ་ཡི་མཐུ<«C,N,Q»དཔུང་>། །དེ་བཞིན་གནོད་བྱེད་ཉམ་ཆུང་བ། །འགའ་ཡང་ཁྱད་དུ་གསད་<«C»བསད་>མི་བྱ<«N,Q»བྱེད>། །",
       "critical_edition": "འདི་ལྟར་དེ་གཅིག་མ་ཡིན་གྱི། །རྒྱལ་པོའི་མཐུ་སྟོབས་དེ་ཡི་དཔུང་། །དེ་བཞིན་གནོད་བྱེད་ཉམ་ཆུང་བ། །འགའ་ཡང་ཁྱད་དུ་བསད་མི་བྱ། །",
-      "critical_edition_with_marker": "འདི་ལྟར་དེ་གཅིག་མ་ཡིན་གྱི། །རྒྱལ་པོའི་མཐུ་[1]སྟོབས་[2]དེ་ཡི་དཔུ[3]ང་། །དེ་བཞིན་གནོད་བྱེད་ཉམ་ཆུང་བ། །འགའ་ཡང་ཁྱད་དུ་བསད་[4]མི་བྱ[5]། །",
+      "critical_edition_with_marker": "འདི་ལྟར་དེ་གཅིག་མ་ཡིན་གྱི། །རྒྱལ་པོའི་མཐུ་སྟོབས་[1]དེ་ཡི་དཔུང་[2]། །དེ་བཞིན་གནོད་བྱེད་ཉམ་ཆུང་བ། །འགའ་ཡང་ཁྱད་དུ་བསད་[3]མི་བྱ[4]། །",
       "critical_apparatus": {
         "1": "མཐུ་སྟོབས་] N,Q མཐུ་སྟོབས་ནི། Sanskrit तस्य राजबलं supports the shorter reading without ནི།",
         "2": "དཔུང་] C,N,Q དཔུང་; D མཐུ། The reading དཔུང་ is supported by KP's commentary དཔུང་ཡིན་པར་ཤེས་པས་སོ། and KS's དེ་ཡི་དཔུང་ཡིན་ནོ།",
         "3": "བསད་] C བསད་; D,N,Q གསད་། The reading བསད་ is supported by KP's བསད་ནས་ and GDR's བསད་པར་",
-        "4": "བྱ་] D,C བྱ་; N,Q བྱེད། Sanskrit विमानयेत् supports བྱ་"
+        "5": "བྱ་] D,C བྱ་; N,Q བྱེད། Sanskrit विमानयेत् supports བྱ་"
       }
     },
     {
@@ -3588,7 +3584,7 @@
     {
       "collated_edition": "འཁོར་ཚེ་བཟོད་པས་མཛེས་སོགས་དང་། །ནད་མེད་པ་དང་གྲགས་པ་ཡིས<«N,Q»དང་>། །ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ་དང་། །འཁོར་ལོས་སྒྱུར་<«N,Q»བསྒྱུར་>བའི་བདེ་རྒྱས་ཐོབ། །<«N,Q»འཐོབ། །>",
       "critical_edition": "འཁོར་ཚེ་བཟོད་པས་མཛེས་སོགས་དང་། །ནད་མེད་པ་དང་གྲགས་པ་དང་། །ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ་དང་། །འཁོར་ལོས་སྒྱུར་བའི་བདེ་རྒྱས་འཐོབ། །",
-      "critical_edition_with_marker": "འཁོར་ཚེ་བཟོད་པས་མཛེས་སོགས་དང་། །ནད་མེད་པ་དང་གྲགས་པ་[1]དང་། །ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ་དང་། །འཁོར་ལོས་སྒྱུར་[2]བའི་བདེ་རྒྱས་འཐོབ། །[3]",
+      "critical_edition_with_marker": "འཁོར་ཚེ་བཟོད་པས་མཛེས་སོགས་དང་། །ནད་མེད་པ་དང་གྲགས་པ་[1]དང་། །ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ་དང་། །འཁོར་ལོས་སྒྱུར་[2]བའི་བདེ་རྒྱས་འཐོབ[3]། །",
       "critical_apparatus": {
         "1": "དང་] N,Q ཡིས། Sanskrit प्रामोद्यं and commentaries KP,GDR,KS,TS support དང་",
         "2": "སྒྱུར་] N,Q བསྒྱུར་། Sanskrit चक्रवर्ति and commentaries KP,GDR,KS,TS support སྒྱུར་",
